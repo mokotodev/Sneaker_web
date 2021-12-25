@@ -1,0 +1,24 @@
+{
+  "name": "sneaker_web",
+  "version": "1.0.0",
+  "description": "Website that shows of some of my favorit sneaker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokotodev/Sneaker_web.git"
+  },
+  "keywords": [
+    "sneaker",
+    "showof",
+    "profil"
+  ],
+  "author": "Jan Reimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokotodev/Sneaker_web/issues"
+  },
+  "homepage": "https://github.com/mokotodev/Sneaker_web#readme"
+}
